@@ -1,2 +1,10 @@
 # Machine-Learning-2017-Fall-
 Hung-yi Lee
+
+- [Part 1. Introduction of Machine Learning](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/1)
+- [Part 2. Regression - Case Study](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/2)
+- [Part 3. Where does the error come from?](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/3)
+- [Part 4. Gradient Descent](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/4)
+- [Part 5. Classification](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/5)
+- [Part 6. Logistic Regression](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/6)
+- [Part 7. Brief Introduction of Deep Learning](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/7)

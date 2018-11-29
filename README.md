@@ -8,3 +8,4 @@ Hung-yi Lee
 - [Part 5. Classification](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/5)
 - [Part 6. Logistic Regression](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/6)
 - [Part 7. Brief Introduction of Deep Learning](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/7)
+- [Part 8. BackPropagation](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/8)

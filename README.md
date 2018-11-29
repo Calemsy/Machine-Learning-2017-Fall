@@ -9,3 +9,4 @@ Hung-yi Lee
 - [Part 6. Logistic Regression](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/6)
 - [Part 7. Brief Introduction of Deep Learning](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/7)
 - [Part 8. BackPropagation](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/8)
+- <font color=blue>[keras demo 1](https://github.com/XuSShuai/Machine-Learning-2017-Fall/blob/master/keras%20demo%201.ipynb)</font>

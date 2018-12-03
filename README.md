@@ -10,3 +10,4 @@ Hung-yi Lee
 - [Part 7. Brief Introduction of Deep Learning](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/7)
 - [Part 8. BackPropagation](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/8)
 - [keras demo 1](https://github.com/XuSShuai/Machine-Learning-2017-Fall/blob/master/keras%20demo%201.ipynb)
+- [Part 9. Tips for Training DNN](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/9)

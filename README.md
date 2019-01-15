@@ -12,3 +12,4 @@ Hung-yi Lee
 - [keras demo 1](https://github.com/XuSShuai/Machine-Learning-2017-Fall/blob/master/keras%20demo%201.ipynb)
 - [Part 9. Tips for Training DNN](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/9)
 - [keras demo 2.ipynb](https://github.com/XuSShuai/Machine-Learning-2017-Fall/blob/master/keras%20demo%202.ipynb)
+- [Part 10. Convolutional Neural Network](https://github.com/XuSShuai/Machine-Learning-2017-Fall/issues/10)
